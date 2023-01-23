@@ -17,8 +17,9 @@ nav {
   font-size: 40px;
   color: white;
   padding-left: 40px;
-  padding-top: 10px;
+  padding-top: 20px;
   float: left;
+  text-transform: uppercase;
 }
 
 .menu {
