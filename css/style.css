@@ -101,6 +101,7 @@ main {
     url("../images/05.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center center;
 }
 
 .main-htext {
@@ -362,13 +363,7 @@ section {
   }
 }
 @media only screen and (max-width: 768px) {
-  .top {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-      url("../images/05.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-  }
+ 
   .main-htext {
     position: relative;
     top: 30%;
